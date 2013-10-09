@@ -19,6 +19,6 @@
     "grunt-cli": "~0.1.9"
   },
   "scripts": {
-    "test": "grunt qunit"
+    "test": "grunt"
   }
 }
